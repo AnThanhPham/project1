@@ -291,6 +291,7 @@ p {
 
 .btn-guides {
     margin: 50px auto 120px;
+    cursor: pointer;
 }
 
 /* Featured */
