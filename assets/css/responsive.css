@@ -236,6 +236,9 @@
         padding-left: 30px;
     }
 
+    .fixed {
+        position: unset;
+    }
 }
 
 @media (max-width: 361px) {
