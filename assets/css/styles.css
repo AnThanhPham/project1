@@ -617,6 +617,7 @@ p {
 .footer {
     margin-top: 55px;
     padding: 50px 0px 58px 0px;
+    overflow: hidden;
 }
 
 .footer-top-title {
