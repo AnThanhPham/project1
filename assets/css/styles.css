@@ -34,9 +34,8 @@ p {
 .header {
     background: #E6F0FF;
     min-height: 100vh;
-    padding-top: 38px;
     position: relative;
-    overflow: hidden;
+    overflow: hidden!important;
 }
 
 .navigation {

@@ -93,3 +93,13 @@ a {
         opacity: 1;
     }
 }
+
+.fixed {
+    padding-top: 38px;
+    padding-bottom: 8px;
+    position: fixed;
+    top: -30px;
+    z-index: 1;
+    width: 100%;
+    background-color: #e3eff7;
+}
